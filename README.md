@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Image_to_PDF
 
 JPG / JPEG / PNG 이미지 파일을 파일명 뒷번호 순서대로 정렬하여 PDF 한 파일로 병합하는 도구입니다.
@@ -78,11 +77,3 @@ dotnet build -c Release
 | 언어 | C# / .NET 8.0 |
 | OS | Windows 11 |
 | 라이브러리 | itext7 7.2.6, SixLabors.ImageSharp 3.1.12, System.Drawing.Common 8.0.0 |
-=======
-"# JPG_to_PDF" 
-"# JPG_to_PDF" 
-"# Image_to_PDF" 
-"# Image_to_PDF" 
-"# Image_to_PDF" 
-"# Image_to_PDF" 
->>>>>>> d2b63630e85d3119c354fc118755fbb0c6aafe24
